@@ -3,7 +3,7 @@
     "version": "2.0.3",
     "slug": "apache2-minimal-mariadb",
     "description": "Webserver with MariaDB Client and some PHP Modules",
-    "url": "https://github.com/FaserF/hassio-addons/tree/master/apache2-minimal-mariadb",
+    "url": "https://github.com/miguefin/hassio-addons/tree/master/apache2-minimal-mariadb",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
     "startup": "application",
     "boot": "auto",
