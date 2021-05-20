@@ -17,7 +17,7 @@ The Apache HTTP Server is a project of The Apache Software Foundation.
 
 ### Full Version
 The [full Apache2 Version](https://github.com/FaserF/hassio-addons/tree/master/apache2) with MariaDB and common used PHP modules. <br /> 
-This docker image comes with: apache2 php7-apache2 libxml2-dev apache2-utils apache2-mod-wsgi apache2-ssl mariadb-client<br /> 
+This docker image comes with: apache2 php7-apache2 libxml2-dev apache2-utils apache2-mod-wsgi apache2-ssl mod_proxy mariadb-client<br /> 
 The following php7 extensions will be installed: php7 php7-dev php7-fpm php7-mysqli php7-opcache php7-gd php7-zlib php7-curl php7-phar php7-json php7-mbstring php7-mcrypt php7-zip php7-pdo php7-pdo_mysql php7-iconv php7-dom php7-session php7-intl php7-soap php7-fileinfo php7-xml<br /> 
 And it comes with php7 locales and [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP).
 
