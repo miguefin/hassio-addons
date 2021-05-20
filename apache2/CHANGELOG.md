@@ -1,4 +1,6 @@
 # Changelog
+## 2.0.5
+- add mod_proxy support
 
 ## 2.0.4
 - add php7-ctype support
